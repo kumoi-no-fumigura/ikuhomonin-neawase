@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ikuhomonin-neawase",
  "yomi": "いくほうもんいんねあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "物合（根合）",
+  "era": "寛治7年（1093）5月5日",
+  "author": "郁芳門院",
+  "desc": "白河院の皇女郁芳門院媞子内親王の女房たちによる根合。左右の方人が船で御前に参る様子などの儀式を、漢文の日記で詳しく記し、女房の方人の名も挙げる。"
+ },
  "editions": [
   {
    "pid": "1879502",
